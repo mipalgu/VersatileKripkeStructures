@@ -1,7 +1,7 @@
 # IncrementingLLFSM
 Examples of the Kripke Structures generation for the Microwave and Incrementing LLFSM.
 
-This repository contains the results for the paper "Versatile but Precise Semantics for Logic-Labelled Finite State Machines".  There are three folders:
+This repository contains the results for the paper "Versatile but Precise Semantics for Logic-Labelled Finite State Machines".  The Kripke Structures are stored in the following folders:
 
 
 <dl>
