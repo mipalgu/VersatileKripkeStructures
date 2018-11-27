@@ -1,0 +1,2 @@
+*.gv filter=lfs diff=lfs merge=lfs -text
+*.smv filter=lfs diff=lfs merge=lfs -text
